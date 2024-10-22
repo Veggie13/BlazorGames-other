@@ -1,8 +1,7 @@
-﻿using BlazorGames.Models.Common.Enums;
+﻿using CardGames;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace BlazorGames.Models.Solitaire
 {
